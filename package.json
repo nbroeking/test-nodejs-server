@@ -1,0 +1,26 @@
+{
+  "name": "test-nodejs-server",
+  "version": "1.0.0",
+  "description": "A nodejs test server that will return a random number per instance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbroeking/test-nodejs-server.git"
+  },
+  "author": "Mr. Nic",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nbroeking/test-nodejs-server/issues"
+  },
+  "homepage": "https://github.com/nbroeking/test-nodejs-server#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-google": "^0.9.1"
+  }
+}
